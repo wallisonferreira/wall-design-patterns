@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\DesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wallison Ferreira",
+            "email": "sanfer_wallison@hotmail.com"
+        }
+    ],
+    "require": {}
+}
